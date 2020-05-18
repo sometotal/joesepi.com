@@ -1,0 +1,17 @@
+---
+title: Red light equals record
+author: joesepi
+layout: post
+permalink: /2006/08/30/red-light-equals-record/
+categories:
+  - MyBandRules!
+---
+All major music projects are recording. It is a whirlwind of air pushing sound to magnetic tape (mostly). Here is the rundown:
+
+*   *<a target="_blank" title="sepi on pvx" href="http://www.pensamplivox.com/sepi">joesepi</a>* &#8211; We have set up some gear in our practice space to facillitate the last bits of tracking to the <a target="_blank" title="7 songs // 5 drummers" href="/sessions">Sepi Sessions</a>. By taking two songs at a time, we hope to finish recording these songs in the next couple months. And as we go along, we are hoping to write a couple more new songs to add to the mix (7+3). The basic tracks are there already, so we will want to add AJ (keys) to most if not all songs; add Bill (extra gtr) to most if not all songs; add Mike (bass) to one song; if we can we will find places to add Nate (percussion) to some songs. I may also need to redo some guitar and vox. 
+    The gear consists of a Mac, a Mackie, Cubase, ProTools/mBox, some outboard gear and some mics.
+    
+    We also have a fancy plug-in that analyzes your favorite song and attempts to match the frequencies in an effort to give you a satisfying eq balance in a mastering setting. We will employ this fancy plug-in to go through the <a target="_blank" title="Oh the sack set..." href="/albums">Sack Set</a> recordings and get them to a place suitable for mass public enjoyment. This is a day (and a plug-in) I have long looked forward to. Can you say &#8220;<a target="_blank" title="W o o  --  H o o  ! !" href="http://en.wikipedia.org/wiki/Woo_Hoo">woo-hoo</a>&#8220;?
+
+*   <a target="_blank" title="crb on pvx" href="http://www.pensamplivox.com/crb">Century Rocket Building</a> &#8211; We have ventured up to good ole <a target="_blank" title="Site coming soon, I swear!" href="http://www.reelsoundschicago.com">Reelsounds</a> to put to tape (2in.) the songs we have been hashing out with new found pounder, Dan Smith. (Actually, we have been working on these songs from before Dan joined, but I wanted to use the term &#8216;new found pounder&#8217;.) We were only planning on doing 6or7 songs and ended up doing 9 of the 10 new songs. Granted, the last one, #9 &#8211; &#8216;Switch Positions&#8217;, may need to be redone, but all in all, we are very pleased at the sounds so far. Jim has already punched and ducked bass parts to his liking. Jon is up there now (as we speak!) tidying up his guitar-ness. After that, I think we may do vocals before I go up and re-do/fix my guitar parts. The sweet sounds of success are bubbling in the lab.
+*   <a target="_blank" title="bearhawk on pvx" href="http://www.pensamplivox.com/bearhawk">Bearhawk</a> (softshell) &#8211; We have been recording parts for this project for quite some time now. After a forced break ($$$) we have reconvened up at Reelsounds to make some final tracking decisions and begin mixxxing this slowjam. The name may give you some clue &#8211; this session is more stripped down and dare I say &#8216;acoustic-ish&#8217;. Chris went in with a ton of songs (and he has two tons more!); Mouse laid down drumles; Jim gently bassted; Jon and I added guitar noodlings; Chris said &#8216;word!&#8217; all over the place; and we even had a guest appearing Antoine on a B-yewtiful Steinway that was rented for a <a target="_blank" title="We love Franks" href="http://www.catalanomusic.com/">Frank Catalano</a> session &#8211; oh the suppleness!

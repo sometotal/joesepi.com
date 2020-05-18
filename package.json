@@ -1,0 +1,27 @@
+{
+  "name": "joesepi.com",
+  "version": "1.0.0",
+  "description": "bingo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "moment": "^2.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sometotal/joesepi.com.git"
+  },
+  "author": "joe sepi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sometotal/joesepi.com/issues"
+  },
+  "homepage": "https://github.com/sometotal/joesepi.com#readme"
+}

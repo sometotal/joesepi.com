@@ -1,0 +1,13 @@
+---
+title: The Recordings continue
+author: joesepi
+layout: post
+permalink: /2006/12/01/the-recordings-continue/
+categories:
+  - MyBandRules!
+---
+<img border="1" align="right" style="margin: 0pt 0pt 15px 15px" alt="Reelsounds' Angela is hot" title="Reelsounds' Angela is hot" src="http://www.joesepi.com/gallery/d/1004-2/music---36.jpg" />First off, we have been working on a new <a title="SoftHawk Wails Killer" target="_blank" href="http://www.pensamplivox.com/bearhawk">Bearhawk</a> record which has had several names associated with it (Softhawk, Softshell, Gentle Bear) but I think the album may be tentatively entitled, Killer Wails. This recording has taken a new form for the Hawk, with D going in and recording a bunch of songs and filling it out from there. For this recording, Mouse is playing drums (and recording/mixing); Jim is playing bass, Jon and I are playing guitar and we have had a few guest appearances on other instruments. We have recently made some rough, but almost final mixes and I have posted two (Archae Bacteria and Old Hotel) to the <a title="Bearhawk on MySpace" target="_blank" href="http://myspace.com/bearhawk">Bearhawk MySpace page</a>. And speaking of the Bearhawk MySpace page, I have also filled it out a bit with some photos of members, contributors and friends.
+
+<img border="1" align="right" title="Promo boys - CRB" alt="Promo boys - CRB" style="margin: 0pt 0pt 15px 15px" src="http://www.joesepi.com/gallery/d/3411-2/CRB+promo+shots+-+46.jpg" />Secondly, <a title="Century Rocket Building on the pvx" target="_blank" href="http://www.pensamplivox.com/crb">Century Rocket Building</a> has been working on some recordings when we find the time between other projects, parties and the usual family/life stuff. I just put down a bunch of guitar the night before last up at Reelsounds and we are getting excited about the progress. I still need to do some guitar housecleaning over there and also add some vox, but from there we will probably sit with some rough mixes and start to flesh out some ideas to make these already great songs even better. Some sounds will be posted forthcoming. (Oh yeah, and I have posted a <a title="Dog butt" target="_blank" href="http://pensamplivox.com/gallery/v/crb_promo/">recent photo shoot</a> we did trying to get a promo shot together.)
+
+And as previously mentioned, we have a new mix for <a title="Sessions keep going" target="_blank" href="http://www.joesepi.com/sessions">Dear Jessica</a> from the \*joesepi\* rock band and we are hoping to continue putting parts down and wrapping up these sessions before the end of the year.
