@@ -1,0 +1,80 @@
+{
+  "title": "Joe Sepi",
+  "tagline": "Code, Music, Life",
+  "description": "I call it home.",
+  "url": "http://joesepi.com",
+  "owner": {
+    "name": "Joe Sepi",
+    "avatar": "IMG_8368_crop3.jpg",
+    "bio": "Code, Music, Life",
+    "email": "sepi@joesepi.com",
+    "twitter": "joe_sepi",
+    "github": "joesepi",
+    "stackexchange": "joe-sepi",
+    "facebook": "joesepi",
+    "instagram": "joesepi",
+    "tumblr": "joesepi",
+    "linkedin": "joesepi",
+    "flickr": "joesepi",
+    "google_plus": "+joesepi",
+    "google_analytics": null
+  },
+  "google_verify": null,
+  "bing_verify": null,
+  "links": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "About",
+      "url": "/about/"
+    },
+    {
+      "title": "Music",
+      "url": "/about/music/"
+    },
+    {
+      "title": "Posts",
+      "url": "/posts/"
+    }
+  ],
+  "timezone": "America/New_York",
+  "future": true,
+  "permalink": "/:year/:month/:day/:title/",
+  "defaults": [
+    {
+      "scope": {
+        "path": "",
+        "type": "posts"
+      },
+      "values": {
+        "layout": "post",
+        "author": "joesepi"
+      }
+    }
+  ],
+  "include": [
+    ".htaccess"
+  ],
+  "exclude": [
+    "lib",
+    "config.rb",
+    "Gemfile",
+    "Capfile",
+    "Gemfile.lock",
+    "config",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "*.sublime-project",
+    "*.sublime-workspace",
+    "test",
+    "spec",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules"
+  ]
+}
