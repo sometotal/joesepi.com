@@ -4,7 +4,7 @@
 {% include _head.html %}
 </head>
 
-<body class="home" itemscope itemtype="http://schema.org/WebPage">
+<body class="home" itemscope itemtype="https://schema.org/WebPage">
 
 {% include _browser-upgrade.html %}
 
@@ -25,13 +25,13 @@
   </div>
 
 
-  <div class="home-index" id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <div class="home-index" id="index" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/Blog">
     {{ content }}
 
     <h3 class="lead"><a href="/posts/">Recent Posts</a></h3>
     {% assign postslist = collections.posts | head: -5 %}
     {%- for post in postslist reversed -%} 
-    <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+    <article itemscope itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
       <h2 itemprop="headline"><a href="{{ post.url }}" rel="bookmark" title="{{ post.data.title }}">{{ post.data.title }}</a></h2>
       <p itemprop="text">{% if post.data.description %}{{ post.data.description }}{% else %}{{ post.data.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
     </article>
