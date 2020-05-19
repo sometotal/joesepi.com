@@ -1,1 +1,0 @@
-Remove all posts permalinks
