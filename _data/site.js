@@ -7,7 +7,7 @@ module.exports = {
   "title": "Joe Sepi",
   "tagline": "Code, Music, Life",
   "description": "I call it home.",
-  "url": "http://joesepi.com",
+  "url": "https://joesepi.com",
   "owner": {
     "name": "Joe Sepi",
     "avatar": "IMG_8368_crop3.jpg",
