@@ -30,6 +30,9 @@ module.exports = function(eleventyConfig) {
   // Copy the directory to the compiled site folder
   eleventyConfig.addPassthroughCopy('assets')
 
+  // Copy favicon assets to _site root
+  eleventyConfig.addPassthroughCopy({ "assets/favicon/*.*": "." });
+
   return {
     dir: {
       input: "./",      // Equivalent to Jekyll's source property
