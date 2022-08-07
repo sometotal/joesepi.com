@@ -1,4 +1,23 @@
 const moment = require("moment")
+const pluralize = require("pluralize")
+
+function dateToXmlSchema(value) {
+  return new Date(value).toISOString()
+}
+
+function readtime(content) {
+  return content
+    ? '~' +
+        Math.ceil(
+          (content.match(/[\u0400-\u04FF]+|\S+\s*/g) || []).length / 300
+        ) +
+        ' minutes'
+    : ''
+}
+
+function stripSlash() {
+  //noop
+}
 
 module.exports = function(eleventyConfig) {
 
@@ -26,6 +45,11 @@ module.exports = function(eleventyConfig) {
 
     return array.slice(0, n);
   });
+
+  eleventyConfig.addFilter('date_to_xmlschema', dateToXmlSchema);
+  eleventyConfig.addFilter('readtime', readtime);
+  eleventyConfig.addFilter('pluralize', pluralize);
+  eleventyConfig.addFilter('strip_slash', stripSlash);
 
   // Copy the directory to the compiled site folder
   eleventyConfig.addPassthroughCopy('assets')

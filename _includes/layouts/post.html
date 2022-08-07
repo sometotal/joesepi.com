@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-{% include _head.html %}
+{% include '_head.html' %}
 </head>
 
 <body class="article" itemscope itemtype="https://schema.org/WebPage">
 
-{% include _browser-upgrade.html %}
+{% include '_browser-upgrade.html' %}
 
-{% include _navigation.html %}
+{% include '_navigation.html' %}
 
 {% if page.image.feature %}<div class="image-wrap">
   <img src="/assets/img/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
@@ -17,7 +17,7 @@
 
 <div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/Blog">
   <div class="article-author-side">
-    {% include _author-bio.html %}
+    {% include '_author-bio.html' %}
   </div>
   <article itemscope itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
     <div class="headline-wrap">
@@ -29,7 +29,7 @@
       <hr />
       <footer role="contentinfo">
         <div class="article-author-bottom">
-          {% include _author-bio.html %}
+          {% include '_author-bio.html' %}
         </div>
       </footer>
     </div><!-- /.article-wrap -->
@@ -38,11 +38,11 @@
 
 <div class="footer-wrap">
   <footer>
-    {% include _footer.html %}
+    {% include '_footer.html' %}
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}
+{% include '_scripts.html' %}
 
 </body>
 </html>
