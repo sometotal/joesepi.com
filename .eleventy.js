@@ -29,6 +29,7 @@ module.exports = function(eleventyConfig) {
 
   // Copy the directory to the compiled site folder
   eleventyConfig.addPassthroughCopy('assets')
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Copy favicon assets to _site root
   eleventyConfig.addPassthroughCopy({ "assets/favicon/*.*": "." });
