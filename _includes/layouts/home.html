@@ -27,30 +27,6 @@
 
   <div class="home-index" id="index" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/Blog">
     {{ content }}
-
-    <h3 class="lead"><a href="/posts/">Recent Posts</a></h3>
-    {% assign postslist = collections.posts | head: -5 %}
-    {%- for post in postslist reversed -%} 
-    <article itemscope itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
-      <h2 itemprop="headline"><a href="{{ post.url }}" rel="bookmark" title="{{ post.data.title }}">{{ post.data.title }}</a></h2>
-      <p itemprop="text">{% if post.data.description %}{{ post.data.description }}{% else %}{{ post.data.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-    </article>
-    {% endfor %}
-
-
-    <h3 class="lead"><a href="">Old Skool Email Blasts:</a></h3>
-    <!-- Begin MailChimp Signup Form -->
-    <div id="mc_embed_signup">
-      <form action="//joesepi.us11.list-manage.com/subscribe/post?u=9c458f98857fbca42ad5437d0&amp;id=608b5d773a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-          <input style="margin:10px 0; border:0;" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="start typing your email address here" required>
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9c458f98857fbca42ad5437d0_608b5d773a" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-      </form>
-    </div><!--End MailChimp Signup Form -->
-
   </div><!-- /#index -->
 
   <div class="footer-wrap">

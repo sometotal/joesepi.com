@@ -21,7 +21,6 @@ module.exports = {
     "tumblr": "joesepi",
     "linkedin": "joesepi",
     "flickr": "joesepi",
-    "google_plus": "+joesepi",
     "google_analytics": null
   },
   "links": [
@@ -30,12 +29,12 @@ module.exports = {
       "url": "/"
     },
     {
-      "title": "About",
-      "url": "/about/"
+      "title": "Music",
+      "url": "/music/"
     },
     {
-      "title": "Music",
-      "url": "/about/music/"
+      "title": "Tech",
+      "url": "/tech/"
     },
     {
       "title": "Posts",
