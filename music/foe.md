@@ -4,7 +4,7 @@ title: Friends of Enemies
 tagline: This One Superhero
 ---
 
-<h2>Friends of Enemies</h2>
+## Friends of Enemies
 
 <iframe style="float: right; margin-left: 10px; border: 0; width: 200px; height: 656px;" src="https://bandcamp.com/EmbeddedPlayer/album=2744059676/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://foe21.bandcamp.com/album/fife-sucks-live-at-java-jump">Fife Sucks - Live at Java Jump by Friends of Enemies</a></iframe>
 
