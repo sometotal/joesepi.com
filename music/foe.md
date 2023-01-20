@@ -4,7 +4,9 @@ title: Friends of Enemies
 tagline: This One Superhero
 ---
 
-[foe21.bandcamp.com](https://foe21.bandcamp.com)
+<h2>Friends of Enemies</h2>
+
+<iframe style="float: right; margin-left: 10px; border: 0; width: 200px; height: 656px;" src="https://bandcamp.com/EmbeddedPlayer/album=2744059676/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://foe21.bandcamp.com/album/fife-sucks-live-at-java-jump">Fife Sucks - Live at Java Jump by Friends of Enemies</a></iframe>
 
 A billion ants, happening perfectly, create order out of chaos...  a collective, pounding rhythm formed by random individuals. Free of monotony, flat lines. A fertile soil, a healthy soul, from which rank tunes are born and bred... sons and daughters, sired by their makers.  Songs from the heart, for those whose beat fiercely.
 
