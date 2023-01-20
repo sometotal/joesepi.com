@@ -4,7 +4,9 @@ title: Century Rocket Building
 tagline: building rocket centuries
 ---
 
-[CenturyRocketBuilding.bandcamp.com](http://centuryrocketbuilding.bandcamp.com)
+## Century Rocket Building
+
+<iframe style="float:right; margin-left:10px; border: 0; width: 200px; height: 656px;" src="https://bandcamp.com/EmbeddedPlayer/album=819927591/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://centuryrocketbuilding.bandcamp.com/album/clash-class">Clash Class by Century Rocket Building</a></iframe>
 
 In the here and now, to work the craft  and make music that solves for an aggregate of rock reflex, art-punk nuts and a slight jazz fever.  The CRB: slightly like something else, but with a new pair of glasses and cleaned up nice, gosh darn it, with a new towel and a slight trim, short-back-and-sides, thankyouverymuch.
 

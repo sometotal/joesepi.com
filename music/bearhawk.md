@@ -4,7 +4,7 @@ title: Bearhawk
 tagline: Killer Wails of Louderness
 ---
 
-<h2>Bearhawk</h2>
+## Bearhawk
 
 <iframe style="float:right; margin-left:10px; border: 0; width: 200px; height: 656px;" src="https://bandcamp.com/EmbeddedPlayer/album=2663487864/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://thebearhawk.bandcamp.com/album/killer-wails">Killer Wails by Bearhawk</a></iframe>
 
