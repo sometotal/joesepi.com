@@ -4,11 +4,11 @@ title: Joe Sepi as joesepi, the band
 tagline: the days of yore
 ---
 
-Joe Sepi had a band called joesepi.
+## Joe Sepi
+
+<iframe style="float:right; margin-left:10px; border: 0; width: 200px; height: 656px;" src="https://bandcamp.com/EmbeddedPlayer/album=1148926479/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://joesepi.bandcamp.com/album/ruby-lissi">Ruby Lissi by Joe Sepi</a></iframe>
 
 [joesepi.bandcamp.com](https://joesepi.bandcamp.com/)
-
-## joesepi is many things.
 
 Over the years, Joe Sepi «The Man» found himself creating and dismantling bands in many interesting places. Performing music across the U.S. under various names and bands and guises for nearly two decades, this recovering Olympia WA / New York / Boise / Bennington VT resident found himself in Chicago, bursting with stellar music and a smashing new performing group.
 
