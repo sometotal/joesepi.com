@@ -9,7 +9,7 @@ There are tons of great stories about each band and location. More on that later
 
 ## Current Projects
 
-**[Mister Magnus](https://mistermagnus.rocks)**<br>
+**[Magnus](https://mistermagnus.rocks)**<br>
 a culmination of everything that has come before
 
 **[Least Best Beast](https://leastbestbeast.com)**<br>
