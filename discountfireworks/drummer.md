@@ -6,7 +6,7 @@ tagline: drums make the bang go boom
 
 # Discount Fireworks seeks drummer person
 
-New Haven rock band finds most drummers are already in too many bands.
+New Haven rock band finds most drummers are already in too many bands. If you are a drummer with time for another project, please reach out on [Twitter](https://twitter.com/joe_sepi), [Instagram](https://www.instagram.com/joesepi/), [Facebook](https://www.facebook.com/joesepi) or via [email](mailto:joe@joesepi.com).
 
 ### Who are Discount Fireworks?
 
