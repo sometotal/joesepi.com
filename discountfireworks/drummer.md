@@ -8,6 +8,8 @@ tagline: drums make the bang go boom
 
 New Haven rock band finds most drummers are already in too many bands. If you are a drummer with time for another project, please reach out on [Twitter](https://twitter.com/joe_sepi), [Instagram](https://www.instagram.com/joesepi/), [Facebook](https://www.facebook.com/joesepi) or via [email](mailto:joe@joesepi.com).
 
+<img src="/assets/img/df-600.jpg" width="300px" height="300px" align="right" style="margin:0 0 10px 10px">
+
 ### Who are Discount Fireworks?
 
 Discount Fireworks is a project led by Joe Sepi and currently backed by Jeff Maleri on bass (Peasant and 63 other bands) and Tom Connolly on drums (Psychic Newborns and Pillowhugger). However, Tom is getting too busy -- something we knew would happen at some point -- and so we are looking to find someone else to jump in.
