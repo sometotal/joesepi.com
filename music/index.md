@@ -15,12 +15,19 @@ a culmination of everything that came before
 **[Least Best Beast](https://leastbestbeast.com)**<br>
 a beasty punk/rock trio
 
-**[Mustard Tiger](http://mustardtiger.rocks)**<br>
-an improv punk/metal band. Never Rehearse; Always Destroy
-
 ---
 
 ## Past Projects
+
+### New Haven, CT
+
+**[Peasant](https://peasant.rocks)**<br>
+Dive Bar Dirty Rock
+
+### Peekskill, NY
+
+**[Mustard Tiger](http://mustardtiger.rocks)**<br>
+an improv punk/metal band. Never Rehearse; Always Destroy
 
 ### Chicago, IL
 
