@@ -6,7 +6,7 @@ description: "For all the things, me"
 
 <h2><a href="/tech">Joe Sepi is a <span style="text-decoration:underline">technologist</span></a></h2>
 
-He is passionate about advancing the web forward through open source technologies, open governance, and open communities. He has held engineering leadership positions at The New York Times, Adobe, Credit Suisse, Sears, as well as a few start-ups. He's been at IBM for a few years and is currently Program Director of Open Tech. Additionally, he helps lead the OpenJS Foundation and works to maintain and grow the Node.js platform.</br>
+He is passionate about advancing the web forward through open source technologies, open governance, and open communities. He has held engineering leadership positions at The New York Times, Adobe, Credit Suisse, Sears, as well as a few start-ups. He's been at IBM for several years and is currently Program Director of <a href="https://www.ibm.com/opensource/">Open Technologies</a> within IBM Research. Additionally, he helps lead the <a href="https://openjsf.org/governance">OpenJS Foundation</a> and works to maintain and grow the <a href="https://www.youtube.com/watch?v=f7YSsYQmNSI&list=PLxGLihicw5WrpmcTqUgBv4c1auI2sR-zi&index=8">Node.js platform</a>.</br>
 &#8618; <a href="/tech">Read more</a>
 
 <h2 style="margin-top:0"><a href="/music">Joe Sepi is a <span style="text-decoration:underline">musician</span></a></h2>
