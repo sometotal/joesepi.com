@@ -12,8 +12,14 @@ There are tons of great stories about each band and location which I'll get arou
 **[Discount Fireworks](https://discountfireworks.band)**<br>
 a culmination of everything that came before
 
+**[Drifting North](https://thedriftingnorth.com)**<br>
+alt-country psych pop art rock
+
+**[Dead Bull](https://pbr.com/news/2017/02/2015-world-champion-bull-sweetpro-s-long-john-passes-away)**<br>
+fist pumping garage punk party style
+
 **[Least Best Beast](https://leastbestbeast.com)**<br>
-a beasty punk/rock trio
+a beasty rock/punk trio
 
 ---
 
