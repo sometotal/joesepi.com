@@ -29,7 +29,8 @@ A software engineer who bridges technical execution and organizational alignment
 </br>
 <a href="https://www.linkedin.com/in/joesepi/">LinkedIn</a>
 </br>
-&#8618; <a href="/tech">Read more</a></br>
+&#8618; <a href="/tech">Read more</a>
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rpPls9S93xE?si=rGyGbeta87keVipF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
