@@ -36,7 +36,9 @@ Check out the <a href="https://www.linkedin.com/in/joesepi/">LinkedIn</a>
 
 <h2><a href="/music">Joe Sepi is a <span style="text-decoration:underline">musician</span></a></h2>
 
-Playing in bands since he was 15, Joe has moved all around the country chasing musical adventures. His first band’s release was produced by Built to Spill’s Doug Martsch and his recent release features friends from Silkworm, Chevelle, Wrong War, and even Lil Bub’s human. While he’s been in many bands you’ve likely never heard of, the only constants in this journey of sound have been Joe’s heart-on-sleeve voice, magic rocket guitar, and change. His new band, <a href="https://discountfireworks.band">**Discount Fireworks**</a>, is about to blow up. LOOK OUT! 💥</br>
+Playing in bands since he was 15, Joe has moved all around the country chasing musical adventures. His first band’s release was produced by Built to Spill’s Doug Martsch and his recent release features friends from Silkworm, Chevelle, Wrong War, and even Lil Bub’s human. While he’s been in many bands you’ve likely never heard of, the only constants in this journey of sound have been Joe’s heart-on-sleeve voice, magic rocket guitar, and change.
+
+His new band, <a href="https://discountfireworks.band">**Discount Fireworks**</a>, is about to blow up. LOOK OUT! 💥</br>
 &#8618; <a href="/music">Read more</a>
 
 <h4>Please enjoy this Youtube playlist of songs from Joe Sepi's many musical adventures:</h4>
