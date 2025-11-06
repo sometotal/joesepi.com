@@ -25,14 +25,13 @@ A software engineer who bridges technical execution and organizational alignment
 - Developed security and compliance guidance for JavaScript projects aligned with SBOM, CRA, and other emerging standards.
 - Partnered with corporate CISO teams to align open source practices with enterprise security postures.
 - Frequently called into critical vulnerability response efforts for the broader JavaScript ecosystem.
-
+- 
+</br>
+<a href="https://www.linkedin.com/in/joesepi/">LinkedIn</a>
 </br>
 &#8618; <a href="/tech">Read more</a>
 
-</br>
-<a href="https://www.linkedin.com/in/joesepi/">LinkedIn</a>
-
-</br>
+</br></br></br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rpPls9S93xE?si=rGyGbeta87keVipF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
