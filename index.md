@@ -6,7 +6,29 @@ description: "For all the things, me"
 
 <h2><a href="/tech">Joe Sepi is a <span style="text-decoration:underline">technologist</span></a></h2>
 
-He is passionate about advancing the web forward through open source technologies, open governance, and open communities. He has held engineering leadership positions at The New York Times, Adobe, Credit Suisse, Sears, as well as a few start-ups. He's been at IBM for several years and is currently Program Director of <a href="https://www.ibm.com/opensource/">Open Technologies</a> within IBM Research. Additionally, he helps lead the <a href="https://openjsf.org/governance">OpenJS Foundation</a> and works to maintain and grow the <a href="https://www.youtube.com/watch?v=f7YSsYQmNSI&list=PLxGLihicw5WrpmcTqUgBv4c1auI2sR-zi&index=8">Node.js platform</a>.</br>
+A software engineer who bridges technical execution and organizational alignment for impact among developer communities.
+
+**AI and Agentic Platforms**
+- Leading work on Agentic AI platform strategy and implementation, advancing open, interoperable agent frameworks.
+- Served as time series domain expert for IBM’s Granite Foundation Models team.
+- One of the driving forces behind open-sourcing the InstructLab project, enabling community-driven model instruction and governance.
+
+**Open Source Contributor & Ecosystem Stewardship**
+- 15+ years contributing to open source in cloud native, JavaScript, and Node.js communities.
+- Among the architects who merged the Node.js Foundation and JS Foundation to form the OpenJS Foundation.
+- Board Director (community-elected) and Chair of the Cross Project Council (technical steering committee) at OpenJS.
+- Active collaborator across major projects including Node.js, Express, LoopBack, Node-RED, and ESLint.
+- Oversees $350K+ in annual foundation membership revenue, aligning technical priorities with sustainable funding models.
+
+**Security, Compliance & Policy Leadership**
+- Founded and co-leads the Security Collaboration Space at OpenJS, coordinating ecosystem-wide responses to supply chain risk.
+- Developed security and compliance guidance for JavaScript projects aligned with SBOM, CRA, and other emerging standards.
+- Partnered with corporate CISO teams to align open source practices with enterprise security postures.
+- Frequently called into critical vulnerability response efforts for the broader JavaScript ecosystem.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpPls9S93xE?si=rGyGbeta87keVipF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</br>
 &#8618; <a href="/tech">Read more</a>
 
 <h2 style="margin-top:0"><a href="/music">Joe Sepi is a <span style="text-decoration:underline">musician</span></a></h2>
