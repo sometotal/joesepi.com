@@ -6,25 +6,51 @@ description: "For all the things, me"
 
 <h2><a href="/tech">Joe Sepi is a <span style="text-decoration:underline">technologist</span></a></h2>
 
-A software engineer who bridges technical execution and organizational alignment for impact among developer communities.
+Technical leader with strong interpersonal skills who combines execution and organizational alignment
+to foster meaningful impact in developer communities.
+
+<span style="text-decoration-line:underline">Recent work at IBM and in the community:</span>
 
 **AI and Agentic Platforms**
-- Leading work on Agentic AI platform strategy and implementation, advancing open, interoperable agent frameworks.
-- Served as time series domain expert for IBM’s Granite Foundation Models team.
-- One of the driving forces behind open-sourcing the InstructLab project, enabling community-driven model instruction and governance.
+- Leading work on Agentic AI platform strategy and implementation, advancing open, interoperable
+agent frameworks
+- Time series domain expert for IBM’s Granite Foundation Models team
+- Co-led open-sourcing the InstructLab project, enabling community-driven model instruction and
+governance
+- Driving model and data publishing governance as member of the internal AI Ethics Board and Open
+Source Model and Data workgroup
+- Primary admin of IBM’s expansive presence on the Hugging Face platform
 
 **Open Source Contributor & Ecosystem Stewardship**
-- 15+ years contributing to open source in cloud native, JavaScript, and Node.js communities.
-- Among the architects who merged the Node.js Foundation and JS Foundation to form the OpenJS Foundation.
-- Board Director (community-elected) and Chair of the Cross Project Council (technical steering committee) at OpenJS.
-- Active collaborator across major projects including Node.js, Express, LoopBack, Node-RED, and ESLint.
-- Oversees $350K+ in annual foundation membership revenue, aligning technical priorities with sustainable funding models.
+- 15+ years contributing to open source in cloud native, JavaScript, and Node.js communities
+- Led the creation of the OpenJS Foundation through the merger of the Node.js Foundation and JS
+Foundation
+- Board Director (community-elected) and Chair of the Cross Project Council (technical steering
+committee) at OpenJS
+- Active collaborator across major projects including Node.js, Express, LoopBack, Node-RED, and
+ESLint
+- Lead and facilitate multiple working groups around AI, Security, Standards, Community and more
+- Oversees $350K+ in annual foundation membership revenue, aligning technical priorities with
+sustainable funding models
+- Lead internal IBM OSPO admin, policy and compliance
+- Contribute to internal IBM domestic and international standards development and alignment
 
 **Security, Compliance & Policy Leadership**
-- Founded and co-leads the Security Collaboration Space at OpenJS, coordinating ecosystem-wide responses to supply chain risk.
-- Developed security and compliance guidance for JavaScript projects aligned with SBOM, CRA, and other emerging standards.
-- Partnered with corporate CISO teams to align open source practices with enterprise security postures.
-- Frequently called into critical vulnerability response efforts for the broader JavaScript ecosystem.
+- Founded and co-leads the Security Collaboration Space at OpenJS, coordinating ecosystem-wide
+responses to supply chain risk
+- Developed security and compliance guidance for JavaScript projects aligned with SBOM, CRA, and
+other emerging standards
+- Partnered with corporate CISO teams to align open source practices with enterprise security postures
+- Frequently called into critical vulnerability response efforts for the broader JavaScript ecosystem
+
+**Developer Relations, Advocacy & Community Building**
+- Delivered countless keynotes, presentations, workshops and more at conferences, events and online
+- Host and guest on multiple podcasts, including most recently: In The Open with Luke and Joe
+- Technical writer of many articles, workshops, tutorials and documentation
+- Foster and cultivate community in open source at OpenJS Foundation and the Node.js ecosystem
+
+Notable events: WebSummit (Lisbon), JSConf (multiple locations), NodeConf.eu (Kilkenny), JSConf.eu (Berlin),
+WeAreDevs (Vienna), DEVit (Thessaloniki), OpenJS World (multiple locations)
 
 Check out the <a href="https://www.linkedin.com/in/joesepi/">LinkedIn</a>
 </br>
