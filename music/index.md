@@ -16,9 +16,6 @@ alt-country psych pop art rock jams
 **[Dead Bull](https://pbr.com/news/2017/02/2015-world-champion-bull-sweetpro-s-long-john-passes-away)**<br>
 fist pumping garage punk party style
 
-**[Least Best Beast](https://leastbestbeast.com)**<br>
-the best beasty rock/punk trio round the Hudson Valley, several years running 🥇
-
 ---
 
 ## Past Projects
@@ -29,6 +26,9 @@ the best beasty rock/punk trio round the Hudson Valley, several years running �
 Dive Bar Dirty Rock
 
 ### Peekskill, NY
+
+**[Least Best Beast](https://leastbestbeast.com)**<br>
+the best beasty rock/punk trio round the Hudson Valley, several years running 🥇
 
 **[Mustard Tiger](http://mustardtiger.rocks)**<br>
 an improv punk/metal band. Never Rehearse; Always Destroy
