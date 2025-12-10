@@ -10,7 +10,7 @@ Joe Sepi has been making music since he was 14. He started out playing heavy met
 **[Discount Fireworks](https://discountfireworks.band)**<br>
 a culmination of everything that came before
 
-**[Drifting North](https://thedriftingnorth.com)**<br>
+**[Drifting North](https://driftingnorthmusic.bandcamp.com/)**<br>
 alt-country psych pop art rock jams
 
 **[Dead Bull](https://pbr.com/news/2017/02/2015-world-champion-bull-sweetpro-s-long-john-passes-away)**<br>
