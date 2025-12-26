@@ -44,7 +44,6 @@ To the city ground
 And the jets up high  
 Can see me now  
 And I'm just a guy  
-Who has been around
-
-And the jets up high
+Who has been around  
+And the jets up high  
 Can see me now
