@@ -27,6 +27,10 @@ But you were totally wrong
 When the going got tough  
 You were totally gone
 
+Holy shit!  
+Did you see that?  
+Did you see what he pulled out his hat?
+
 When you were one  
 The parts were the sum  
 The best was the rest  
@@ -36,6 +40,11 @@ The way you went long
 Turned left and were gone  
 In the blink of an eye  
 Unlimited brawn
+
+Wish you were now  
+Totally gone  
+Thought we knew real love  
+Totally wrong
 
 They think that you’re ill  
 From the wind comes the will  
@@ -47,10 +56,14 @@ Hit it out of the park
 Where the west was won  
 They’ve made you a gun
 
+Holy shit!  
+Did you see that?  
+Did you see what he pulled out his hat?
+
 This song should be sung  
 From the back to the front  
 Spoke highly of you  
-‘Cept when they called you a cunt
+Except when they called you a cunt
 
 This is the end  
 My only friend  
