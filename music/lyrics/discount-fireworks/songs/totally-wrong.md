@@ -7,15 +7,15 @@ At the beginning…  we were singing…  both of our songs
 I want to sail away  
 Come back with more swords on another day
 
-You were totally gone  
-When you pulled up in your Cadillac right next to my home (damn)  
-I want to sail away  
-Come back with more force to blow you away
-
 You say you wont you know you will  
 Wouldn’t want to die upon that hill  
 Couldn’t leave well enough alone  
 Shoulda wrote it in a poem
+
+You were totally gone  
+When you pulled up in your Cadillac right next to my home (damn)  
+I want to sail away  
+Come back with more force to blow you away
 
 When you were gone  
 I wrote you this song  
