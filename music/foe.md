@@ -16,6 +16,6 @@ This is F.O.E. -  #21 that is. The big building on the corner that no one notic
 Question: Was F.O.E. fueled by, "The only six-foot Asian stoner who could make your white-ass sound like Jimi Hendrix?"<br />
 Answer: Perhaps. Or most definitely... if you find it near impossible to ignore the overcharged snare rolls (read: snarls!). But why would you want to do that anyway? Face it. It's cardiatic. And that is good for you.
 
-The music of F.O.E. was officially lacerating. Raucous. Partied more than preached. Floodgate vocals: sung-yelled in English, but the words had different meanings. The dueling gee-tar attack sliced and diced, groped and doped. Left you out to dry. While the pummeling drums and the mean-streaking bass supplied the attitude. A little bit angry, a little bit full of it. A wee bit tongue-in-cheek, and a tad of the ol' fist-between-the-cheeks, 'Ho, Ho, Ho!'<br />
+The music of F.O.E. was officially lacerating. Raucous. Partied more than preached. Floodgate vocals: sung-yelled in English, but the words had different meanings. The dueling gee-tar attack sliced and diced, joked and poked. Left you out to dry. While the pummeling drums and the mean-streaking bass supplied the attitude. A little bit angry, a little bit full of it. A wee bit tongue-in-cheek, and a tad of the ol' fist-between-the-cheeks, 'Ho, Ho, Ho!'<br />
 F.O.E.  roared like lions... until they didn't.
 
